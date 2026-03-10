@@ -39,3 +39,6 @@ My work laptop is anyways going to be a windows laptop, and windows has a pretty
 I didn't want to make this repo for a long time to maintain some opsec. But I've spent (wasted) too much time on this, so some of my setup can be showcased, atleast the ones that might be usefull to others.
 
 I backup automatically to a private repo and manually upload the files here (duh). I might add more configs later if I remember this repo exists.
+
+#### How to install/use this ?
+Its mostly just copy pasting these files, you'll figure it out.

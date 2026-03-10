@@ -1,0 +1,38 @@
+{
+"include": "~/.config/waybar/modules",
+"layer": "bottom",
+//"mode": "dock",
+"exclusive": true,
+"passthrough": false,
+"position": "bottom",
+// "spacing": 8,
+"fixed-center": true,
+"ipc": true,
+// "margin-top": 3,
+// "margin-left": 8,
+// "margin-right": 8,
+
+"modules-left": [
+	"custom/menu",
+	"custom/separator#blank_2",
+	"custom/separator#line",
+	"custom/separator#blank_2",
+	"custom/screenshot",
+	"wlr/taskbar"
+	],
+
+"modules-center": [
+	], 
+
+"modules-right": [
+	"hyprland/workspaces",
+	"tray",
+	"battery",
+	"custom/separator#blank",
+	"group/audio",
+	"custom/separator#blank",
+	"group/connections",
+	"custom/separator#blank",
+	"clock"
+	],
+}

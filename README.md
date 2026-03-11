@@ -1,6 +1,6 @@
 all my dotfiles/rice to customize hyprland and Gnome to be as similar as Windows
 
-(REMEMBER TO ADD IMAGE HERE)
+<img width="1920" height="1080" alt="Gnome Screenshot" src="https://github.com/user-attachments/assets/8be27162-24f1-4fae-b25b-e922881973a9" />
 
 > The goal is not to make it look as same as windows but rather have the same workflow, shortcuts etc.
 
